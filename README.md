@@ -5,6 +5,8 @@
 **多平台全方位新闻信息平台**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/zain1299999-create/omni-news/releases/tag/v1.0.0)
+[![Auto Evolve](https://img.shields.io/badge/auto--evolve-enabled-success.svg)](.github/workflows/evolve.yml)
+[![Health Check](https://img.shields.io/badge/health--check-daily-brightgreen.svg)](.github/workflows/evolve.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Sources](https://img.shields.io/badge/sources-82-brightgreen.svg)](docs/SOURCES.md)
 [![Platforms](https://img.shields.io/badge/platforms-23-orange.svg)](docs/SOURCES.md)
@@ -23,6 +25,7 @@
 - **十层采集引擎**: 新闻联播直采 + 国内权威媒体 + 社交媒体 + 国际财经 + 国际RSS + AI/Builder + 搜索引擎 + 60s API + DailyHotApi + TrendRadar
 - **情感分析层**: SnowNLP + PaddleNLP + BettaFish 方法论
 - **82个免费源**: 零API Key依赖，覆盖23个社交平台
+- **🧬 自动进化**: 基于GitHub Actions的定时扫描引擎，每天自动发现新技术和新数据源
 - **多格式输出**: Markdown / HTML / 图片 / PDF / RSS
 - **智能去重**: 4阶段流水线（精确→语义→AI核验→事件聚类）
 - **场景化早报**: 财经/科技/吃瓜/AI/国际/联播/Builder/舆情 8套模板
@@ -96,6 +99,52 @@ python scripts/fetch_xwlb.py
 │  输出层: 结构化Markdown报告 + 存档 + 趋势图表              │
 └────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 🧬 自动进化系统
+
+> 新闻平台不是静态的——它会自动寻找新技术并进化。
+
+### 工作原理
+
+```
+每天 UTC 02:00 (北京时间 10:00)
+        │
+        ▼
+┌──────────────────────┐
+│  🔍 扫描GitHub       │  搜索25+关键词（新闻聚合/RSS/情感分析/金融数据/社交媒体）
+│  发现新项目          │  质量评估: Stars + 活跃度 + 文档 + License
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│  💓 健康检查         │  验证现有82个数据源的可用性
+│  现有源状态          │  检测降级/失效的端点
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│  📝 自动创建Issue    │  新发现的项目自动记录到GitHub Issues
+│  追踪新发现          │  包含项目描述、评分、可用性评估
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│  🔄 可选自动PR       │  高评分项目可自动创建PR更新SKILL.md
+│  更新采集引擎        │  人工审核后合并
+└──────────────────────┘
+```
+
+### 参与方式
+
+1. **自动**: 每天10:00自动运行，查看 [Issues](https://github.com/zain1299999-create/omni-news/issues) 了解新发现
+2. **手动**: Actions → Auto Evolve → Run workflow
+3. **审核**: 测试新源可用性 → 合并PR → 关闭Issue
+
+### 进化日志
+
+查看 [EVOLUTION_LOG.md](EVOLUTION_LOG.md) 了解历次扫描发现。
 
 ---
 
