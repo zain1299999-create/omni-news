@@ -1,0 +1,21 @@
+{
+  "name": "omni-news",
+  "version": "1.0.0",
+  "description": "📰 多平台全方位新闻信息平台 — 聚合82个免费源，10引擎+情感分析层",
+  "author": "Zain",
+  "license": "MIT",
+  "type": "qwenpaw-skill",
+  "category": "news",
+  "tags": ["news", "aggregator", "ai", "social-media", "finance", "tech"],
+  "engines": 10,
+  "sources": 82,
+  "platforms": 23,
+  "sentiment_models": 3,
+  "output_formats": ["markdown", "html", "image", "pdf", "rss"],
+  "triggers": ["新闻", "日报", "早报", "快讯", "头条", "联播", "财经", "AI动态", "科技新闻", "舆情", "news", "daily"],
+  "dependencies": {
+    "optional": ["snownlp", "paddlenlp", "sentence-transformers"]
+  },
+  "repository": "https://github.com/zain1299999-create/omni-news",
+  "documentation": "https://github.com/zain1299999-create/omni-news/blob/main/docs/ARCHITECTURE.md"
+}
