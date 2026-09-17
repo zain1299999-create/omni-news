@@ -1,0 +1,5 @@
+﻿# Omni News 自动进化系统依赖
+# Python >= 3.8
+
+requests>=2.28.0
+PyGithub>=2.1.0

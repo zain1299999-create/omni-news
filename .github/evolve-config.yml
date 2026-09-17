@@ -1,0 +1,81 @@
+# Auto Evolve Configuration
+
+# 自动进化系统配置
+
+## 搜索关键词
+# 用于扫描GitHub发现新项目的搜索词列表
+
+search_keywords:
+  # 新闻聚合
+  - "news aggregator RSS"
+  - "news aggregator Chinese"
+  - "news API free"
+  - "newsfeed API"
+  - "headline API"
+  
+  # 社交媒体
+  - "weibo API"
+  - "zhihu API"
+  - "douyin API"
+  - "xiaohongshu scraper"
+  - "twitter alternative API"
+  
+  # RSS
+  - "RSS feed generator"
+  - "RSS parser Python"
+  - "full text RSS"
+  - "RSSHub alternative"
+  
+  # 情感分析
+  - "sentiment analysis Chinese NLP"
+  - "Chinese text classification"
+  - "news sentiment analysis"
+  
+  # 金融数据
+  - "stock market API free"
+  - "financial news API"
+  - "crypto news API"
+  
+  # AI/科技
+  - "AI news aggregator"
+  - "tech news API"
+  - "HackerNews API"
+  
+  # 数据源
+  - "public API list"
+  - "free API collection"
+  - "open data news"
+  
+  # 新闻分析
+  - "news clustering"
+  - "topic detection news"
+  - "news summarization"
+
+## 质量阈值
+quality_thresholds:
+  min_stars: 50
+  min_recent_commits_days: 90
+  min_score: 2.0
+
+## 扫描模式
+scan_modes:
+  quick:
+    description: "快速扫描（8个关键词，约30秒）"
+    queries: 8
+  normal:
+    description: "标准扫描（15个关键词，约60秒）"
+    queries: 15
+  deep:
+    description: "深度扫描（全部关键词，约120秒）"
+    queries: 999
+
+## 调度
+schedule:
+  cron: "0 2 * * *"  # 每天UTC 02:00
+  timezone: "UTC"
+
+## GitHub Actions 权限
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
