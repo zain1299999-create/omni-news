@@ -69,7 +69,7 @@ jobs:
           echo "$SUMMARY"
       
       - name: Upload scan results
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: scan-results
           path: scan_results.json
@@ -102,7 +102,7 @@ jobs:
           echo "💔 发现 $UNHEALTHY 个不健康源"
       
       - name: Upload health results
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: health-results
           path: health_results.json
