@@ -1294,3 +1294,56 @@ memory/daily_news_YYYY-MM-monthly.md               — 月报
   - 新增舆情分析模式输出
 - **v2.0** (2026-09-17): 整合 GitHub 发现（NewsMCP, Follow Builders, InBrief, AI News Digest, twikit, ALL-about-RSS），新增 AI Builder 动态引擎，免费源从 35 扩展到 50+
 - **v1.0** (2026-09-17): 初始版本，35 个免费源，5 层引擎
+
+
+---
+
+## 🧬 自动进化发现 (2026-09-18)
+
+以下项目由自动进化扫描发现，经人工审核后可纳入采集引擎。
+
+### FreshRSS/FreshRSS
+A free, self-hostable news aggregator…
+
+- URL: https://github.com/FreshRSS/FreshRSS
+- ⭐16059 | 评分: 6.5
+- 语言: PHP
+- 标签: feed, freshrss, news-aggregator, php, rss, rss-aggregator, rss-reader, self-hosted, websub
+- 状态: ⏳ 待审核
+
+### Thysrael/Horizon
+📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+
+- URL: https://github.com/Thysrael/Horizon
+- ⭐9389 | 评分: 6.5
+- 语言: Python
+- 标签: aggregator, feishu-bot, llm, mcp, news, openclaw, python, webhook
+- 状态: ⏳ 待审核
+
+### CharlesPikachu/DecryptLogin
+DecryptLogin: APIs for loginning some websites by using requests.
+
+- URL: https://github.com/CharlesPikachu/DecryptLogin
+- ⭐2853 | 评分: 6.5
+- 语言: Python
+- 标签: 12306, baidu, baiduyun, bilibili, crawler, jingdong, login, migu, pypi, python3, requests, spider, stackoverflow, taobao, tencent, twitter, weibo, xiami, xiaomi, zhihu
+- 状态: ⏳ 待审核
+
+### Johnserf-Seed/f2
+High-speed downloader for multiple platforms
+
+- URL: https://github.com/Johnserf-Seed/f2
+- ⭐2648 | 评分: 6.5
+- 语言: Python
+- 标签: api, bark, bilibili, douyin, downloader, pypi, tiktok, tools, twitter, weibo
+- 状态: ⏳ 待审核
+
+### nexu-io/html-anything
+✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+
+- URL: https://github.com/nexu-io/html-anything
+- ⭐8890 | 评分: 6.5
+- 语言: HTML
+- 标签: agent-skills, agentic, ai-agents, ai-design, ai-editor, byok, claude, claude-code, claude-skills, coding-agents, generative-ai, html, html-editor, hyperframes, local-first, markdown, nextjs, vibe-coding, wechat, xiaohongshu
+- 状态: ⏳ 待审核
+
