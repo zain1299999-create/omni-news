@@ -1,14 +1,14 @@
 {
-  "scan_time": "2026-10-01T08:11:51.245004",
+  "scan_time": "2026-10-01T19:13:22.901548",
   "mode": "normal",
   "total_scanned": 140,
-  "summary": "扫描完成: 发现 140 个新项目 | 最佳: FreshRSS/FreshRSS (⭐16194, 评分6.5)",
+  "summary": "扫描完成: 发现 140 个新项目 | 最佳: FreshRSS/FreshRSS (⭐16198, 评分6.5)",
   "new_projects": [
     {
       "name": "FreshRSS/FreshRSS",
       "description": "A free, self-hostable news aggregator…",
       "url": "https://github.com/FreshRSS/FreshRSS",
-      "stars": 16194,
+      "stars": 16198,
       "language": "PHP",
       "topics": [
         "feed",
@@ -21,11 +21,11 @@
         "self-hosted",
         "websub"
       ],
-      "updated_at": "2026-10-01T06:46:31Z",
+      "updated_at": "2026-10-01T19:11:17Z",
       "homepage": "https://freshrss.org",
       "score": 6.5,
       "reasons": [
-        "⭐16194",
+        "⭐16198",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -37,7 +37,7 @@
       "name": "Thysrael/Horizon",
       "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
       "url": "https://github.com/Thysrael/Horizon",
-      "stars": 9534,
+      "stars": 9542,
       "language": "Python",
       "topics": [
         "aggregator",
@@ -49,11 +49,11 @@
         "python",
         "webhook"
       ],
-      "updated_at": "2026-10-01T07:59:18Z",
+      "updated_at": "2026-10-01T17:21:16Z",
       "homepage": "https://www.horizon1123.top",
       "score": 6.5,
       "reasons": [
-        "⭐9534",
+        "⭐9542",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -105,7 +105,7 @@
       "name": "Johnserf-Seed/f2",
       "description": "High-speed downloader for multiple platforms",
       "url": "https://github.com/Johnserf-Seed/f2",
-      "stars": 2671,
+      "stars": 2672,
       "language": "Python",
       "topics": [
         "api",
@@ -119,11 +119,11 @@
         "twitter",
         "weibo"
       ],
-      "updated_at": "2026-10-01T07:41:25Z",
+      "updated_at": "2026-10-01T09:41:13Z",
       "homepage": "http://f2.wiki/",
       "score": 6.5,
       "reasons": [
-        "⭐2671",
+        "⭐2672",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -135,7 +135,7 @@
       "name": "nexu-io/html-anything",
       "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
       "url": "https://github.com/nexu-io/html-anything",
-      "stars": 8984,
+      "stars": 8985,
       "language": "HTML",
       "topics": [
         "agent-skills",
@@ -159,11 +159,11 @@
         "wechat",
         "xiaohongshu"
       ],
-      "updated_at": "2026-10-01T04:06:18Z",
+      "updated_at": "2026-10-01T16:34:52Z",
       "homepage": "https://open-design.ai/html-anything/",
       "score": 6.5,
       "reasons": [
-        "⭐8984",
+        "⭐8985",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -175,7 +175,7 @@
       "name": "Evil0ctal/Douyin_TikTok_Download_API",
       "description": "🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up. ",
       "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
-      "stars": 20418,
+      "stars": 20430,
       "language": "Python",
       "topics": [
         "asyncio",
@@ -199,11 +199,11 @@
         "video-downloader",
         "web-scraping"
       ],
-      "updated_at": "2026-10-01T05:52:30Z",
+      "updated_at": "2026-10-01T19:01:28Z",
       "homepage": "https://douyin.wtf",
       "score": 6.5,
       "reasons": [
-        "⭐20418",
+        "⭐20430",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -215,7 +215,7 @@
       "name": "JoeanAmier/TikTokDownloader",
       "description": "抖音 / TikTok 平台作品下载/数据采集工具",
       "url": "https://github.com/JoeanAmier/TikTokDownloader",
-      "stars": 16445,
+      "stars": 16451,
       "language": "JavaScript",
       "topics": [
         "api",
@@ -236,11 +236,11 @@
         "windows",
         "xlsx"
       ],
-      "updated_at": "2026-10-01T07:53:45Z",
+      "updated_at": "2026-10-01T17:41:17Z",
       "homepage": "https://discord.com/invite/ZYtmgKud9Y",
       "score": 6.5,
       "reasons": [
-        "⭐16445",
+        "⭐16451",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -252,7 +252,7 @@
       "name": "iszhouhua/social-media-copilot",
       "description": "社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。",
       "url": "https://github.com/iszhouhua/social-media-copilot",
-      "stars": 1347,
+      "stars": 1348,
       "language": "TypeScript",
       "topics": [
         "browser-extension",
@@ -262,11 +262,11 @@
         "social-media-copilot",
         "xiaohongshu"
       ],
-      "updated_at": "2026-10-01T02:44:31Z",
+      "updated_at": "2026-10-01T17:04:49Z",
       "homepage": "https://socialext.com/open-source",
       "score": 6.5,
       "reasons": [
-        "⭐1347",
+        "⭐1348",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -304,7 +304,7 @@
       "name": "kurtmckee/feedparser",
       "description": "Parse feeds in Python",
       "url": "https://github.com/kurtmckee/feedparser",
-      "stars": 2431,
+      "stars": 2434,
       "language": "Python",
       "topics": [
         "atom",
@@ -313,11 +313,11 @@
         "rdf",
         "rss"
       ],
-      "updated_at": "2026-10-01T02:12:12Z",
+      "updated_at": "2026-10-01T16:14:50Z",
       "homepage": "https://feedparser.readthedocs.io",
       "score": 6.5,
       "reasons": [
-        "⭐2431",
+        "⭐2434",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -418,7 +418,7 @@
       "name": "tt-rss/tt-rss",
       "description": "A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.",
       "url": "https://github.com/tt-rss/tt-rss",
-      "stars": 852,
+      "stars": 853,
       "language": "PHP",
       "topics": [
         "rss",
@@ -427,11 +427,11 @@
         "tt-rss",
         "ttrss"
       ],
-      "updated_at": "2026-09-30T12:00:22Z",
+      "updated_at": "2026-10-01T14:49:41Z",
       "homepage": "",
       "score": 5.5,
       "reasons": [
-        "⭐852",
+        "⭐853",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -443,7 +443,7 @@
       "name": "NoblerWorks-HQ/IRONSIGHT",
       "description": "Real-time OSINT command center for the Iran/Israel and Russia/Ukraine theaters — 50+ live open-source intelligence sources (news, Telegram, military aircraft & naval tracking, missile alerts, prediction & defense markets) in one dashboard. No API keys. Free. Next.js + TypeScript.",
       "url": "https://github.com/NoblerWorks-HQ/IRONSIGHT",
-      "stars": 659,
+      "stars": 658,
       "language": "TypeScript",
       "topics": [
         "dashboard",
@@ -465,11 +465,11 @@
         "typescript",
         "ukraine"
       ],
-      "updated_at": "2026-10-01T05:33:25Z",
+      "updated_at": "2026-10-01T12:01:17Z",
       "homepage": "https://noblerworks.com/",
       "score": 5.5,
       "reasons": [
-        "⭐659",
+        "⭐658",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -481,7 +481,7 @@
       "name": "TikHub/TikHub-API-Python-SDK",
       "description": "High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X) Captcha Solver(验证码解决器) Temp Mail(临时邮箱) API(接口).",
       "url": "https://github.com/TikHub/TikHub-API-Python-SDK",
-      "stars": 899,
+      "stars": 900,
       "language": "Python",
       "topics": [
         "api",
@@ -501,11 +501,11 @@
         "xiaohongshu",
         "xiguashipin"
       ],
-      "updated_at": "2026-09-28T12:12:08Z",
+      "updated_at": "2026-10-01T12:49:10Z",
       "homepage": "https://pypi.org/project/tikhub/",
       "score": 5.5,
       "reasons": [
-        "⭐899",
+        "⭐900",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -550,14 +550,14 @@
       "name": "cv-cat/DouYin_Spider",
       "description": "抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听",
       "url": "https://github.com/cv-cat/DouYin_Spider",
-      "stars": 3245,
+      "stars": 3250,
       "language": "Python",
       "topics": [],
-      "updated_at": "2026-10-01T08:11:20Z",
+      "updated_at": "2026-10-01T17:40:46Z",
       "homepage": "",
       "score": 5.5,
       "reasons": [
-        "⭐3245",
+        "⭐3250",
         "🟢活跃",
         "📝有描述"
       ],
