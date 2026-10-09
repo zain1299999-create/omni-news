@@ -1,5 +1,23 @@
 # 🧬 进化日志
 
+## 2026-10-09
+
+**扫描模式**: normal | **发现新项目**: 20
+
+| # | 项目 | Stars | 评分 | 描述 |
+|---|------|-------|------|------|
+| 1 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | ⭐16256 | 6.5 | A free, self-hostable news aggregator… |
+| 2 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | ⭐9575 | 6.5 | 📡 Your own AI-powered news radar. Generates daily  |
+| 3 | [CharlesPikachu/DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin) | ⭐2853 | 6.5 | DecryptLogin: APIs for loginning some websites by  |
+| 4 | [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2) | ⭐2689 | 6.5 | High-speed downloader for multiple platforms |
+| 5 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | ⭐9045 | 6.5 | ✨ The agentic HTML editor — your local AI agent wr |
+| 6 | [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | ⭐20533 | 6.5 | 🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker |
+| 7 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | ⭐16596 | 6.5 | 抖音 / TikTok 平台作品下载/数据采集工具 |
+| 8 | [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) | ⭐1361 | 6.5 | 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker |
+| 9 | [praw-dev/praw](https://github.com/praw-dev/praw) | ⭐4276 | 6.5 | PRAW, an acronym for "Python Reddit API Wrapper",  |
+| 10 | [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) | ⭐1032 | 6.5 | A JavaScript wrapper for the reddit API |
+
+---
 ## 2026-10-08
 
 **扫描模式**: normal | **发现新项目**: 20
