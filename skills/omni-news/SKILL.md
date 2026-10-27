@@ -3626,3 +3626,56 @@ High-speed downloader for multiple platforms
 - 标签: api, bark, bilibili, douyin, downloader, pypi, tiktok, tools, twitter, weibo
 - 状态: ⏳ 待审核
 
+
+
+---
+
+## 🧬 自动进化发现 (2026-10-27)
+
+以下项目由自动进化扫描发现，经人工审核后可纳入采集引擎。
+
+### FreshRSS/FreshRSS
+A free, self-hostable news aggregator…
+
+- URL: https://github.com/FreshRSS/FreshRSS
+- ⭐16430 | 评分: 6.5
+- 语言: PHP
+- 标签: feed, freshrss, news-aggregator, php, rss, rss-aggregator, rss-reader, self-hosted, websub
+- 状态: ⏳ 待审核
+
+### Thysrael/Horizon
+📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+
+- URL: https://github.com/Thysrael/Horizon
+- ⭐11026 | 评分: 6.5
+- 语言: Python
+- 标签: aggregator, feishu-bot, llm, mcp, news, openclaw, python, webhook
+- 状态: ⏳ 待审核
+
+### marc-shade/world-intel-mcp
+160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and border flows, cyber, climate, news and more. Dated observation history, 29 research prompts, cited briefs, geofences, SSE dashboard. MIT, no paid API keys.
+
+- URL: https://github.com/marc-shade/world-intel-mcp
+- ⭐1042 | 评分: 6.5
+- 语言: Python
+- 标签: ai-tools, ai-watch, anthropic, claude, cybersecurity, dashboard, geofencing, geopolitical, geospatial, intelligence, markets, mcp, migration, military, model-context-protocol, nuclear, osint, real-time, space-weather, threat-intelligence
+- 状态: ⏳ 待审核
+
+### CharlesPikachu/DecryptLogin
+DecryptLogin: APIs for loginning some websites by using requests.
+
+- URL: https://github.com/CharlesPikachu/DecryptLogin
+- ⭐2851 | 评分: 6.5
+- 语言: Python
+- 标签: 12306, baidu, baiduyun, bilibili, crawler, jingdong, login, migu, pypi, python3, requests, spider, stackoverflow, taobao, tencent, twitter, weibo, xiami, xiaomi, zhihu
+- 状态: ⏳ 待审核
+
+### Johnserf-Seed/f2
+High-speed downloader for multiple platforms
+
+- URL: https://github.com/Johnserf-Seed/f2
+- ⭐2712 | 评分: 6.5
+- 语言: Python
+- 标签: api, bark, bilibili, douyin, downloader, pypi, tiktok, tools, twitter, weibo
+- 状态: ⏳ 待审核
+
