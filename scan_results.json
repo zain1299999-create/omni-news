@@ -1,14 +1,14 @@
 {
-  "scan_time": "2026-10-28T19:16:55.868156",
+  "scan_time": "2026-10-29T19:23:50.584223",
   "mode": "normal",
   "total_scanned": 143,
-  "summary": "扫描完成: 发现 143 个新项目 | 最佳: FreshRSS/FreshRSS (⭐16437, 评分6.5)",
+  "summary": "扫描完成: 发现 143 个新项目 | 最佳: FreshRSS/FreshRSS (⭐16444, 评分6.5)",
   "new_projects": [
     {
       "name": "FreshRSS/FreshRSS",
       "description": "A free, self-hostable news aggregator…",
       "url": "https://github.com/FreshRSS/FreshRSS",
-      "stars": 16437,
+      "stars": 16444,
       "language": "PHP",
       "topics": [
         "feed",
@@ -21,11 +21,11 @@
         "self-hosted",
         "websub"
       ],
-      "updated_at": "2026-10-28T14:43:02Z",
+      "updated_at": "2026-10-29T19:06:20Z",
       "homepage": "https://freshrss.org",
       "score": 6.5,
       "reasons": [
-        "⭐16437",
+        "⭐16444",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -37,7 +37,7 @@
       "name": "Thysrael/Horizon",
       "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
       "url": "https://github.com/Thysrael/Horizon",
-      "stars": 11049,
+      "stars": 11060,
       "language": "Python",
       "topics": [
         "aggregator",
@@ -49,11 +49,11 @@
         "python",
         "webhook"
       ],
-      "updated_at": "2026-10-28T16:44:10Z",
+      "updated_at": "2026-10-29T18:09:50Z",
       "homepage": "https://www.horizon1123.top",
       "score": 6.5,
       "reasons": [
-        "⭐11049",
+        "⭐11060",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -65,7 +65,7 @@
       "name": "marc-shade/world-intel-mcp",
       "description": "160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and border flows, cyber, climate, news and more. Dated observation history, 29 research prompts, cited briefs, geofences, SSE dashboard. MIT, no paid API keys.",
       "url": "https://github.com/marc-shade/world-intel-mcp",
-      "stars": 1046,
+      "stars": 1049,
       "language": "Python",
       "topics": [
         "ai-tools",
@@ -89,11 +89,11 @@
         "space-weather",
         "threat-intelligence"
       ],
-      "updated_at": "2026-10-28T09:58:16Z",
+      "updated_at": "2026-10-29T15:10:14Z",
       "homepage": "",
       "score": 6.5,
       "reasons": [
-        "⭐1046",
+        "⭐1049",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -159,7 +159,7 @@
         "twitter",
         "weibo"
       ],
-      "updated_at": "2026-10-28T13:51:19Z",
+      "updated_at": "2026-10-29T13:10:51Z",
       "homepage": "http://f2.wiki/",
       "score": 6.5,
       "reasons": [
@@ -175,7 +175,7 @@
       "name": "nexu-io/html-anything",
       "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
       "url": "https://github.com/nexu-io/html-anything",
-      "stars": 9282,
+      "stars": 9298,
       "language": "HTML",
       "topics": [
         "agent-skills",
@@ -199,11 +199,11 @@
         "wechat",
         "xiaohongshu"
       ],
-      "updated_at": "2026-10-28T19:01:03Z",
+      "updated_at": "2026-10-29T19:02:25Z",
       "homepage": "https://open-design.ai/html-anything/",
       "score": 6.5,
       "reasons": [
-        "⭐9282",
+        "⭐9298",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -215,7 +215,7 @@
       "name": "Evil0ctal/Douyin_TikTok_Download_API",
       "description": "🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up.",
       "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
-      "stars": 20961,
+      "stars": 20983,
       "language": "Python",
       "topics": [
         "bilibili",
@@ -239,11 +239,11 @@
         "video-downloader",
         "web-scraping"
       ],
-      "updated_at": "2026-10-28T17:06:10Z",
+      "updated_at": "2026-10-29T17:18:28Z",
       "homepage": "https://douyin.wtf",
       "score": 6.5,
       "reasons": [
-        "⭐20961",
+        "⭐20983",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -255,7 +255,7 @@
       "name": "JoeanAmier/TikTokDownloader",
       "description": "抖音 / TikTok 平台作品下载/数据采集工具",
       "url": "https://github.com/JoeanAmier/TikTokDownloader",
-      "stars": 17166,
+      "stars": 17198,
       "language": "JavaScript",
       "topics": [
         "api",
@@ -276,11 +276,11 @@
         "windows",
         "xlsx"
       ],
-      "updated_at": "2026-10-28T17:06:16Z",
+      "updated_at": "2026-10-29T17:57:18Z",
       "homepage": "https://discord.com/invite/ZYtmgKud9Y",
       "score": 6.5,
       "reasons": [
-        "⭐17166",
+        "⭐17198",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -292,7 +292,7 @@
       "name": "iszhouhua/social-media-copilot",
       "description": "社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。",
       "url": "https://github.com/iszhouhua/social-media-copilot",
-      "stars": 1388,
+      "stars": 1389,
       "language": "TypeScript",
       "topics": [
         "browser-extension",
@@ -302,11 +302,11 @@
         "social-media-copilot",
         "xiaohongshu"
       ],
-      "updated_at": "2026-10-28T06:59:55Z",
+      "updated_at": "2026-10-29T17:33:11Z",
       "homepage": "https://socialext.com/open-source",
       "score": 6.5,
       "reasons": [
-        "⭐1388",
+        "⭐1389",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -318,7 +318,7 @@
       "name": "praw-dev/praw",
       "description": "PRAW, an acronym for \"Python Reddit API Wrapper\", is a python package that allows for simple access to Reddit's API.",
       "url": "https://github.com/praw-dev/praw",
-      "stars": 4289,
+      "stars": 4290,
       "language": "Python",
       "topics": [
         "api",
@@ -328,11 +328,11 @@
         "reddit",
         "reddit-api"
       ],
-      "updated_at": "2026-10-28T09:11:43Z",
+      "updated_at": "2026-10-29T09:12:03Z",
       "homepage": "https://praw.readthedocs.io",
       "score": 6.5,
       "reasons": [
-        "⭐4289",
+        "⭐4290",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -344,16 +344,16 @@
       "name": "not-an-aardvark/snoowrap",
       "description": "A JavaScript wrapper for the reddit API",
       "url": "https://github.com/not-an-aardvark/snoowrap",
-      "stars": 1028,
+      "stars": 1027,
       "language": "JavaScript",
       "topics": [
         "hacktoberfest"
       ],
-      "updated_at": "2026-10-19T07:09:39Z",
+      "updated_at": "2026-10-28T20:57:47Z",
       "homepage": "",
       "score": 6.5,
       "reasons": [
-        "⭐1028",
+        "⭐1027",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -365,7 +365,7 @@
       "name": "kurtmckee/feedparser",
       "description": "Parse feeds in Python",
       "url": "https://github.com/kurtmckee/feedparser",
-      "stars": 2451,
+      "stars": 2452,
       "language": "Python",
       "topics": [
         "atom",
@@ -374,11 +374,11 @@
         "rdf",
         "rss"
       ],
-      "updated_at": "2026-10-27T17:32:04Z",
+      "updated_at": "2026-10-29T13:20:51Z",
       "homepage": "https://feedparser.readthedocs.io",
       "score": 6.5,
       "reasons": [
-        "⭐2451",
+        "⭐2452",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -457,17 +457,17 @@
       "name": "finaldie/auto-news",
       "description": "A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.",
       "url": "https://github.com/finaldie/auto-news",
-      "stars": 910,
+      "stars": 911,
       "language": "Python",
       "topics": [
         "ai",
         "productivity"
       ],
-      "updated_at": "2026-10-23T05:42:26Z",
+      "updated_at": "2026-10-29T06:16:24Z",
       "homepage": "",
       "score": 5.5,
       "reasons": [
-        "⭐910",
+        "⭐911",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -504,7 +504,7 @@
       "name": "NoblerWorks-HQ/IRONSIGHT",
       "description": "Real-time OSINT command center for the Iran/Israel and Russia/Ukraine theaters — 50+ live open-source intelligence sources (news, Telegram, military aircraft & naval tracking, missile alerts, prediction & defense markets) in one dashboard. No API keys. Free. Next.js + TypeScript.",
       "url": "https://github.com/NoblerWorks-HQ/IRONSIGHT",
-      "stars": 671,
+      "stars": 672,
       "language": "TypeScript",
       "topics": [
         "dashboard",
@@ -526,11 +526,11 @@
         "typescript",
         "ukraine"
       ],
-      "updated_at": "2026-10-28T11:40:35Z",
+      "updated_at": "2026-10-29T15:33:14Z",
       "homepage": "https://ironsight.noblerworks.com/",
       "score": 5.5,
       "reasons": [
-        "⭐671",
+        "⭐672",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -542,7 +542,7 @@
       "name": "TikHub/TikHub-API-Python-SDK",
       "description": "High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X) Captcha Solver(验证码解决器) Temp Mail(临时邮箱) API(接口).",
       "url": "https://github.com/TikHub/TikHub-API-Python-SDK",
-      "stars": 925,
+      "stars": 926,
       "language": "Python",
       "topics": [
         "api",
@@ -562,11 +562,11 @@
         "xiaohongshu",
         "xiguashipin"
       ],
-      "updated_at": "2026-10-28T07:05:04Z",
+      "updated_at": "2026-10-29T06:24:38Z",
       "homepage": "https://pypi.org/project/tikhub/",
       "score": 5.5,
       "reasons": [
-        "⭐925",
+        "⭐926",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
