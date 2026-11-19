@@ -1,14 +1,14 @@
 {
-  "scan_time": "2026-11-19T09:46:04.792297",
+  "scan_time": "2026-11-19T21:57:37.100855",
   "mode": "normal",
   "total_scanned": 143,
-  "summary": "扫描完成: 发现 143 个新项目 | 最佳: FreshRSS/FreshRSS (⭐16629, 评分6.5)",
+  "summary": "扫描完成: 发现 143 个新项目 | 最佳: FreshRSS/FreshRSS (⭐16632, 评分6.5)",
   "new_projects": [
     {
       "name": "FreshRSS/FreshRSS",
       "description": "A free, self-hostable news aggregator…",
       "url": "https://github.com/FreshRSS/FreshRSS",
-      "stars": 16629,
+      "stars": 16632,
       "language": "PHP",
       "topics": [
         "feed",
@@ -21,11 +21,11 @@
         "self-hosted",
         "websub"
       ],
-      "updated_at": "2026-11-19T08:59:12Z",
+      "updated_at": "2026-11-19T20:43:38Z",
       "homepage": "https://freshrss.org",
       "score": 6.5,
       "reasons": [
-        "⭐16629",
+        "⭐16632",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -37,7 +37,7 @@
       "name": "Thysrael/Horizon",
       "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
       "url": "https://github.com/Thysrael/Horizon",
-      "stars": 14773,
+      "stars": 14801,
       "language": "Python",
       "topics": [
         "aggregator",
@@ -49,11 +49,11 @@
         "python",
         "webhook"
       ],
-      "updated_at": "2026-11-19T09:29:49Z",
+      "updated_at": "2026-11-19T20:53:33Z",
       "homepage": "https://www.horizon1123.top",
       "score": 6.5,
       "reasons": [
-        "⭐14773",
+        "⭐14801",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -89,7 +89,7 @@
         "space-weather",
         "threat-intelligence"
       ],
-      "updated_at": "2026-11-19T01:19:05Z",
+      "updated_at": "2026-11-19T20:23:01Z",
       "homepage": "",
       "score": 6.5,
       "reasons": [
@@ -145,7 +145,7 @@
       "name": "Johnserf-Seed/f2",
       "description": "High-speed downloader for multiple platforms",
       "url": "https://github.com/Johnserf-Seed/f2",
-      "stars": 2743,
+      "stars": 2745,
       "language": "Python",
       "topics": [
         "api",
@@ -159,11 +159,11 @@
         "twitter",
         "weibo"
       ],
-      "updated_at": "2026-11-19T09:33:42Z",
+      "updated_at": "2026-11-19T15:49:04Z",
       "homepage": "http://f2.wiki/",
       "score": 6.5,
       "reasons": [
-        "⭐2743",
+        "⭐2745",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -199,7 +199,7 @@
         "video-downloader",
         "web-scraping"
       ],
-      "updated_at": "2026-11-19T09:25:59Z",
+      "updated_at": "2026-11-19T20:27:37Z",
       "homepage": "https://douyin.wtf",
       "score": 6.5,
       "reasons": [
@@ -215,7 +215,7 @@
       "name": "JoeanAmier/TikTokDownloader",
       "description": "抖音 / TikTok 平台作品下载/数据采集工具",
       "url": "https://github.com/JoeanAmier/TikTokDownloader",
-      "stars": 17560,
+      "stars": 17570,
       "language": "JavaScript",
       "topics": [
         "api",
@@ -236,11 +236,11 @@
         "windows",
         "xlsx"
       ],
-      "updated_at": "2026-11-19T08:49:20Z",
+      "updated_at": "2026-11-19T19:26:51Z",
       "homepage": "https://discord.com/invite/ZYtmgKud9Y",
       "score": 6.5,
       "reasons": [
-        "⭐17560",
+        "⭐17570",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -278,7 +278,7 @@
       "name": "praw-dev/praw",
       "description": "PRAW, an acronym for \"Python Reddit API Wrapper\", is a python package that allows for simple access to Reddit's API.",
       "url": "https://github.com/praw-dev/praw",
-      "stars": 4306,
+      "stars": 4305,
       "language": "Python",
       "topics": [
         "api",
@@ -288,11 +288,11 @@
         "reddit",
         "reddit-api"
       ],
-      "updated_at": "2026-11-19T00:16:50Z",
+      "updated_at": "2026-11-19T18:34:19Z",
       "homepage": "https://praw.readthedocs.io",
       "score": 6.5,
       "reasons": [
-        "⭐4306",
+        "⭐4305",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -304,16 +304,16 @@
       "name": "not-an-aardvark/snoowrap",
       "description": "A JavaScript wrapper for the reddit API",
       "url": "https://github.com/not-an-aardvark/snoowrap",
-      "stars": 1026,
+      "stars": 1025,
       "language": "JavaScript",
       "topics": [
         "hacktoberfest"
       ],
-      "updated_at": "2026-11-17T14:55:42Z",
+      "updated_at": "2026-11-19T19:51:11Z",
       "homepage": "",
       "score": 6.5,
       "reasons": [
-        "⭐1026",
+        "⭐1025",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -325,7 +325,7 @@
       "name": "kurtmckee/feedparser",
       "description": "Parse feeds in Python",
       "url": "https://github.com/kurtmckee/feedparser",
-      "stars": 2459,
+      "stars": 2458,
       "language": "Python",
       "topics": [
         "atom",
@@ -334,11 +334,11 @@
         "rdf",
         "rss"
       ],
-      "updated_at": "2026-11-19T00:25:06Z",
+      "updated_at": "2026-11-19T18:35:38Z",
       "homepage": "https://feedparser.readthedocs.io",
       "score": 6.5,
       "reasons": [
-        "⭐2459",
+        "⭐2458",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -368,7 +368,7 @@
       "name": "oxylabs/google-news-scraper",
       "description": "Use Google News Scraper API to obtain the latest global news for your project, including a wide range of sources, headlines, URLs, and publication dates from the Google News platform.",
       "url": "https://github.com/oxylabs/google-news-scraper",
-      "stars": 3404,
+      "stars": 3394,
       "language": "Python",
       "topics": [
         "api-for-google-news",
@@ -384,11 +384,11 @@
         "news-scraper-api",
         "scraper-api"
       ],
-      "updated_at": "2026-11-19T00:20:44Z",
+      "updated_at": "2026-11-19T16:36:49Z",
       "homepage": "https://oxylabs.io/products/scraper-api/serp/google?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=google-news-scraper-github&transaction_id=102c8d36f7f0d0e5797b8f26152160",
       "score": 6.0,
       "reasons": [
-        "⭐3404",
+        "⭐3394",
         "🟢活跃",
         "📝有描述",
         "🏷️12标签"
@@ -439,7 +439,7 @@
       "name": "tt-rss/tt-rss",
       "description": "A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.",
       "url": "https://github.com/tt-rss/tt-rss",
-      "stars": 890,
+      "stars": 891,
       "language": "PHP",
       "topics": [
         "rss",
@@ -448,11 +448,11 @@
         "tt-rss",
         "ttrss"
       ],
-      "updated_at": "2026-11-18T13:49:02Z",
+      "updated_at": "2026-11-19T20:26:17Z",
       "homepage": "",
       "score": 5.5,
       "reasons": [
-        "⭐890",
+        "⭐891",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
@@ -561,7 +561,7 @@
       "name": "mtianyan/FunpySpiderSearchEngine",
       "description": "Word2vec 千人千面 个性化搜索 + Scrapy2.3.0(爬取数据) + ElasticSearch7.9.1(存储数据并提供对外Restful API) + Django3.1.1 搜索",
       "url": "https://github.com/mtianyan/FunpySpiderSearchEngine",
-      "stars": 936,
+      "stars": 935,
       "language": "Python",
       "topics": [
         "django",
@@ -576,11 +576,11 @@
         "spider",
         "zhihu"
       ],
-      "updated_at": "2026-11-11T19:40:44Z",
+      "updated_at": "2026-11-19T20:31:30Z",
       "homepage": "",
       "score": 5.5,
       "reasons": [
-        "⭐936",
+        "⭐935",
         "🟢活跃",
         "📝有描述",
         "📜有许可",
